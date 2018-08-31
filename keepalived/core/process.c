@@ -27,6 +27,7 @@
 #include <errno.h>
 #include <string.h>
 #include <unistd.h>
+#include <stdbool.h>
 #ifdef _HAVE_SCHED_RT_
 #include <sched.h>
 #endif
